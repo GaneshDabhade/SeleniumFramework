@@ -23,6 +23,6 @@ public class Cart {
 	
 	// Verify provided item present in cart
 	public void verifyCart(String itemName) {
-		String itemXpath = String.format(itemName, null)
+//		String itemXpath = String.format(itemName, null)
 	}
 }
